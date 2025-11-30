@@ -1,0 +1,3 @@
+from kid_education_agent.agent import root_agent
+
+__all__ = ["root_agent"]
